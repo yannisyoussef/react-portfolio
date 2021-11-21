@@ -4,7 +4,6 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaMailBulk,
 } from "react-icons/fa";
 
 function Footer() {
